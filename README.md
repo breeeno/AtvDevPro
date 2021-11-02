@@ -1,2 +1,2 @@
 
-Atividades do curso DevPro; https://wiki.python.org.br/ListaDeExercicios
+Atividades do site PythonBrasil; https://wiki.python.org.br/ListaDeExercicios
